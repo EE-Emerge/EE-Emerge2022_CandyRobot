@@ -1,7 +1,6 @@
 ---
 layout: default
-title: MAIN PAGE TITLE
-description: MAIN PAGE DESCRIPTION
+title: CANDY ROBOT
+description: EE-EMRGE Candy Robot 2022
 ---
 
-# EE-EMRGE PROJECT NAME
