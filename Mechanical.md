@@ -6,3 +6,4 @@ description: MECHANICAL PAGE DESCRIPTION
 
 
 ![robot]({{site.baseurl}}/assets/css/robot.png)
+![robot]({{site.baseurl}}/assets/css/vacuunhead.png)
