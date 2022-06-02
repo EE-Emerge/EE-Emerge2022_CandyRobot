@@ -6,7 +6,7 @@ description: EE-Emerge Candy Robot 2021-2022
 ---
 
 # Hardware Design version 1
-|![PCB schematic]({{site.baseurl}}/assets/css/first controller.png)|
+|![PCB schematic]({{site.baseurl}}/assets/css/first_controller.png)|
 |![PCB Layout]({{site.baseurl}}/assets/css/firstPCB.png)|
 
 # Hardware Design version 2
