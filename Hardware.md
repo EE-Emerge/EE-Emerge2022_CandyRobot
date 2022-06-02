@@ -4,10 +4,12 @@ title: HARDWARE
 description: EE-Emerge Candy Robot 2021-2022
 
 ---
-
+For the project, we have two version of the PCB design.
 # Hardware Design version 1
 |![PCB schematic]({{site.baseurl}}/assets/css/first_controller.png)|
 |![PCB Layout]({{site.baseurl}}/assets/css/firstPCB.png)|
+
+In the first PCB, 
 
 # Hardware Design version 2
 |![PCB schematic]({{site.baseurl}}/assets/css/sch.png)|
