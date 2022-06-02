@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CANDY ROBOT
-description: EE-EMRGE Candy Robot 2022
+description: EE-Emerge Candy Robot 2021-2022
 ---
 
 Candy Robot is an interactive robot that picks up and sorts candy into their designated containers based on their color. Our project utilizes the base of a 3D printer, a homemade vacuum system, and an OpenMV Camera. Since the OpenMV camera has a built-in color sensor, we programmed it to control and toggle the vacuum pump when it detects a specific color, enabling the candy to be picked up by the vacuum tube through suction.
