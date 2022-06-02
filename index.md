@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CANDY ROBOT
+title: Candy Robot
 description: EE-Emerge Candy Robot 2021-2022
 ---
 
