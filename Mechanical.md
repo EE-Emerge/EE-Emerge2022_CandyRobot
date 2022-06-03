@@ -13,7 +13,17 @@ We used the Autodesk Fusion 360 application to design our vacuum tip for seamles
 <img src="{{site.baseurl}}/assets/css/case2.png" width="400" height="400">
 
 
-We also used a third-party website to design an enclosure to hold our power supply, vacuum pump, and vacuum PCB. We then laser cutted the pieces using ¼” Plywood and assembled it, as pictured below:
+We also used a third-party website to design an enclosure to hold our power supply, vacuum pump, and vacuum PCB. 
+
+<p align="center">
+  <img 
+    width="400"
+    height="400"
+    src="{{site.baseurl}}/assets/css/ee_crbox.png"
+  >
+</p>
+
+We then laser cutted the pieces using ¼” Plywood and assembled it.
 
 <img src="{{site.baseurl}}/assets/css/box1.jpg" width="400" height="400">
 <img src="{{site.baseurl}}/assets/css/box2.jpg" width="400" height="400">
