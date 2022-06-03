@@ -9,5 +9,18 @@ We want to express our gratitude to Professor Knoesen and TA Sean Alling for the
 
 We would also like to thank Texas Instruments for sponsoring our class, EE-Emerge.
 
-| ![EE_Emerge]({{site.baseurl}}/assets/css/EE-Emerge_Logo.png) |
-| ![Texas Instruments]({{site.baseurl}}/assets/css/TI.png) |
+<p align="center">
+  <img 
+    width="600"
+    height="600"
+    src="{{site.baseurl}}/assets/css/EE-Emerge_Logo.png"
+  >
+</p>
+
+<p align="center">
+  <img 
+    width="600"
+    height="600"
+    src="{{site.baseurl}}/assets/css/TI.png"
+  >
+</p>
