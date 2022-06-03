@@ -1,7 +1,7 @@
 ---
 layout: default
-title: ABOUT
-description: Grounp Member information
+title: About
+description: EE-Emerge Candy Robot 2021-2022
 ---
 
 | | |
