@@ -11,16 +11,14 @@ We would also like to thank Texas Instruments for sponsoring our class, EE-Emerg
 
 <p align="center">
   <img 
-    width="600"
-    height="600"
+    width="400"
     src="{{site.baseurl}}/assets/css/EE-Emerge_Logo.png"
   >
 </p>
 
 <p align="center">
   <img 
-    width="600"
-    height="600"
+    width="400"
     src="{{site.baseurl}}/assets/css/TI.png"
   >
 </p>
