@@ -9,15 +9,15 @@ For our project, we wanted to expand upon the uses of low-cost 3D printers. We d
 
 We used the Autodesk Fusion 360 application to design our vacuum tip for seamless suction, and attachments to hold the camera at the top of the printer. We then 3D printed these designs, as well as the case for the OpenMV camera. The attachments were superglued to the bottom case to mount the camera.
 
-<img src="{{site.baseurl}}/assets/css/vacuunhead.png" width="400" height="400">
-<img src="{{site.baseurl}}/assets/css/case2.png" width="400" height="400">
+<img src="{{site.baseurl}}/assets/css/vacuunhead.png" width="400" height="350">
+<img src="{{site.baseurl}}/assets/css/case2.png" width="400" height="350">
 
 
 We also used a third-party website to design an enclosure to hold our power supply, vacuum pump, and vacuum PCB. 
 
 <p align="center">
   <img 
-    width="400"
+    width="500"
     height="400"
     src="{{site.baseurl}}/assets/css/ee_crbox.png"
   >
