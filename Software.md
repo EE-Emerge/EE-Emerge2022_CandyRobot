@@ -3,7 +3,7 @@ layout: default
 title: Software
 description: EE-Emerge Candy Robot 2021-2022
 ---
-
+# OpenMV IDE
 The OpenMV camera has its own Python-based integrated development environment (IDE), allowing for easy access to MicroPython libraries.
 
 With features like a framebuffer viewer, a color sensor, and a histogram display, we are able to choose which colors to detect using its RGB value and the Threshold Editor. The camera is programmed so that once all the candy of a certain color is picked up, the candy of the next color will be detected and picked up.
