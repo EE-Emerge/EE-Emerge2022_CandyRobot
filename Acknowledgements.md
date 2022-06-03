@@ -1,7 +1,7 @@
 ---
 layout: default
-title: ACKNOWLEDGEMENTS PAGE TITLE
-description: ACKNOWLEDGEMENTS PAGE DESCRIPTION
+title: Acknowledgements
+description: EE-Emerge Candy Robot 2021-2022
 ---
 
 
