@@ -11,7 +11,7 @@ With features like a framebuffer viewer, a color sensor, and a histogram display
 
 <p align="center">
   <img 
-    width="400"
+    width="500"
     src="{{site.baseurl}}/assets/css/threshold.png"
   >
 </p>
@@ -21,7 +21,7 @@ From the camera, we are able to obtain the coordinates of the candy and convert 
 
 <p align="center">
   <img 
-    width="400"
+    width="500"
     src="{{site.baseurl}}/assets/css/code.png"
   >
 </p>
